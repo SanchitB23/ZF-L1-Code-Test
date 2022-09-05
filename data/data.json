@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "points": "15"
+  },
+  {
+    "id": "2",
+    "name": "Bumrah",
+    "role": "Bowler",
+    "points": "15"
+  },
+  {
+    "id": "3",
+    "name": "MS Dhoni",
+    "role": "All-Rounder",
+    "points": "15"
+  },
+  {
+    "id": "4",
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "points": "15"
+  },
+  {
+    "id": "5",
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "points": "15"
+  },
+  {
+    "id": "6",
+    "name": "Shami",
+    "role": "Bowler",
+    "points": "13"
+  },
+  {
+    "id": "7",
+    "name": "Manish Pandey",
+    "role": "Batsman",
+    "points": "12"
+  },
+  {
+    "id": "8",
+    "name": "R Ashwin",
+    "role": "Bowler",
+    "points": "13"
+  },
+  {
+    "id": "9",
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "points": "12"
+  },
+  {
+    "id": "10",
+    "name": "Chahal",
+    "role": "Bowler",
+    "points": "13"
+  },
+  {
+    "id": "11",
+    "name": "Krunal Pandya",
+    "role": "Bowler",
+    "points": "10"
+  }
+]
